@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May  9 00:10:00 2017
+
+@author: John
+asdftoger
+
+"""
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import sys

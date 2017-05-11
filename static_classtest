@@ -1,0 +1,9 @@
+class Static_test():
+    def __init__():
+        pass
+    
+    @staticmethod
+    def hello():
+        print("hello world")
+        
+        
