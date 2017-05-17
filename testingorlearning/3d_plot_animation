@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 12 12:33:17 2017
+
+@author: John
+asdftoger
+
+This program looks at 3D plotting and animation
+
+"""
+
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
